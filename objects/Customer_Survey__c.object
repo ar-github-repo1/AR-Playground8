@@ -47,8 +47,7 @@
     <allowInChatterGroups>false</allowInChatterGroups>
     <compactLayoutAssignment>SYSTEM</compactLayoutAssignment>
     <deploymentStatus>Deployed</deploymentStatus>
-    <description>Add comment for AR-CustomObject1.</description>
-    <enableActivities>true</enableActivities>
+    <enableActivities>false</enableActivities>
     <enableBulkApi>true</enableBulkApi>
     <enableFeeds>false</enableFeeds>
     <enableHistory>false</enableHistory>
@@ -56,34 +55,12 @@
     <enableSearch>false</enableSearch>
     <enableSharing>true</enableSharing>
     <enableStreamingApi>true</enableStreamingApi>
-    <fields>
-        <fullName>AR_CustomField1__c</fullName>
-        <description>Add comment for AR-CustomField1.</description>
-        <externalId>false</externalId>
-        <label>AR-CustomField1</label>
-        <length>15</length>
-        <required>false</required>
-        <trackTrending>false</trackTrending>
-        <type>Text</type>
-        <unique>false</unique>
-    </fields>
-    <fields>
-        <fullName>AR_Custom_Field3__c</fullName>
-        <description>Add Comment for  AR-Custom Field3.</description>
-        <externalId>false</externalId>
-        <label>AR-Custom Field3</label>
-        <length>35</length>
-        <required>false</required>
-        <trackTrending>false</trackTrending>
-        <type>Text</type>
-        <unique>false</unique>
-    </fields>
-    <label>AR-CustomObject1</label>
+    <label>Customer Survey</label>
     <nameField>
-        <label>AR-CustomObject1 Name</label>
+        <label>Customer Survey Name</label>
         <type>Text</type>
     </nameField>
-    <pluralLabel>AR-CustomObject1s</pluralLabel>
+    <pluralLabel>survey</pluralLabel>
     <searchLayouts/>
     <sharingModel>ReadWrite</sharingModel>
 </CustomObject>
