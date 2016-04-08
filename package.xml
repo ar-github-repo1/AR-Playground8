@@ -1,11 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <version>35.0</version>
     <types>
         <members>ARApexClass</members>
         <members>ARApexClass1</members>
         <members>ARApexClass2</members>
         <members>TAFApexClass</members>
         <name>ApexClass</name>
+    </types>
+    <types>
+        <members>Newpage</members>
+        <name>ApexPage</name>
     </types>
     <types>
         <members>AppSwitcher</members>
@@ -395,18 +400,6 @@
         <name>Role</name>
     </types>
     <types>
-        <members>Account.Billing</members>
-        <members>Campaign.ViewCampaignInfluenceReport</members>
-        <members>Case.UpsellCrosssellOpportunity</members>
-        <members>Opportunity.DeliveryStatus</members>
-        <name>WebLink</name>
-    </types>
-    <types>
-        <members>AR_CustomObject1__c.AR-WorkFlow1</members>
-        <members>AR_CustomObject1__c.AR-WorkflowRule2</members>
-        <name>WorkflowRule</name>
-    </types>
-    <types>
         <members>Account</members>
         <members>Activities</members>
         <members>Address</members>
@@ -432,5 +425,16 @@
         <members>Security</members>
         <name>Settings</name>
     </types>
-    <version>35.0</version>
+    <types>
+        <members>Account.Billing</members>
+        <members>Campaign.ViewCampaignInfluenceReport</members>
+        <members>Case.UpsellCrosssellOpportunity</members>
+        <members>Opportunity.DeliveryStatus</members>
+        <name>WebLink</name>
+    </types>
+    <types>
+        <members>AR_CustomObject1__c.AR-WorkFlow1</members>
+        <members>AR_CustomObject1__c.AR-WorkflowRule2</members>
+        <name>WorkflowRule</name>
+    </types>
 </Package>
