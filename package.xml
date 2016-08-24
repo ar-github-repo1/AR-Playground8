@@ -86,6 +86,7 @@
         <members>Opportunity.TrackingNumber__c</members>
         <members>PavanObject__c.PavanObject_Id__c</members>
         <members>PavanObject__c.PavanObject_phone__c</members>
+        <members>PavanObject__c.description__c</members>
         <members>Pricebook2.AutorabitExtId__c</members>
         <members>PricebookEntry.AutorabitExtId__c</members>
         <members>Product2.AutorabitExtId__c</members>

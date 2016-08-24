@@ -74,6 +74,16 @@
         <trackTrending>false</trackTrending>
         <type>Phone</type>
     </fields>
+    <fields>
+        <fullName>description__c</fullName>
+        <externalId>false</externalId>
+        <label>description</label>
+        <length>100</length>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
     <label>PavanObject</label>
     <nameField>
         <label>PavanObject Name</label>
