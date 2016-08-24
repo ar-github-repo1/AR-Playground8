@@ -84,6 +84,8 @@
         <members>Opportunity.MainCompetitors__c</members>
         <members>Opportunity.OrderNumber__c</members>
         <members>Opportunity.TrackingNumber__c</members>
+        <members>PavanObject__c.PavanObject_Id__c</members>
+        <members>PavanObject__c.PavanObject_phone__c</members>
         <members>Pricebook2.AutorabitExtId__c</members>
         <members>PricebookEntry.AutorabitExtId__c</members>
         <members>Product2.AutorabitExtId__c</members>
@@ -134,6 +136,7 @@
         <members>Order</members>
         <members>OrderItem</members>
         <members>PartnerRole</members>
+        <members>PavanObject__c</members>
         <members>Pricebook2</members>
         <members>PricebookEntry</members>
         <members>Product2</members>
