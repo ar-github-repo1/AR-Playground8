@@ -57,6 +57,16 @@
     <enableSharing>true</enableSharing>
     <enableStreamingApi>true</enableStreamingApi>
     <fields>
+        <fullName>CustomField4__c</fullName>
+        <externalId>false</externalId>
+        <label>CustomField4</label>
+        <length>40</length>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>PavanObject_Id__c</fullName>
         <description>PavanObject id for unique</description>
         <displayFormat>{000}</displayFormat>

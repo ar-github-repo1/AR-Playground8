@@ -84,6 +84,7 @@
         <members>Opportunity.MainCompetitors__c</members>
         <members>Opportunity.OrderNumber__c</members>
         <members>Opportunity.TrackingNumber__c</members>
+        <members>PavanObject__c.CustomField4__c</members>
         <members>PavanObject__c.PavanObject_Id__c</members>
         <members>PavanObject__c.PavanObject_phone__c</members>
         <members>PavanObject__c.description__c</members>
